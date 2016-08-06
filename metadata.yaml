@@ -1,0 +1,31 @@
+_repo: Monkey-Jack-and-Other-Stories_11877
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Cox, Palmer
+    birthdate: 1840
+    deathdate: 1924
+    gutenberg_agent_id: '35178'
+    url: http://www.gutenberg.org/2009/agents/35178
+    wikipedia: http://en.wikipedia.org/wiki/Palmer_Cox
+description: ''
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11877'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Readers (Primary)'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- !lcsh 'Children''s poetry'
+- GITenberg
+tableOfContents: Monkey Jack -- A pair of friends -- A rain-y day -- The quarrel --
+  Old winter -- The hard lesson -- Rob Jackson's dog -- The wives of Brixham -- Agrippa
+  -- Frank's boy -- Joey's exploit.
+title: Monkey Jack and Other Stories
+url: http://www.gutenberg.org/ebooks/11877
